@@ -2,7 +2,7 @@
 
 
 
-![Brian T-pose serious](brian_tpose_serious.png)  
+![Brian T-pose serious](Brian_Armstrong_T.png)  
 ![Brian pointing at viewer](brian_pointing.png)  
 ![Brian thumbs up wink](brian_thumbs_up.png)  
 ![Brian victory hands up](brian_victory.png)  
